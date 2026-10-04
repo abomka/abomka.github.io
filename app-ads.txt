@@ -479,3 +479,5 @@ triplelift.com, 14705, RESELLER, 6c33edb13117fd86
 triplelift.com, 6998, RESELLER, 6c33edb13117fd86
 triplelift.com, 14709, RESELLER, 6c33edb13117fd86
 undertone.com, 4108, RESELLER
+smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
+
